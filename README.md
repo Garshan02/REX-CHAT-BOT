@@ -17,6 +17,6 @@ Step 4: Select the options that are required for the firebase such as Firebase S
 
 # Deployment:
 To Deploy the functions to the Firebase: firebase deploy --only functions
-<img width="1677" alt="Deployed in Firebase" src="https://github.com/user-attachments/assets/bdd433c0-933d-4c58-aa02-120a28b622d2">
+<img width="1677" alt="Deployed in Firebase" src="https://github.com/user-attachments/assets/f6c2017a-283a-4f4e-99f7-13c58cd5ae06">
 
 
