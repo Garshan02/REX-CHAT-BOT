@@ -19,4 +19,10 @@ Step 4: Select the options that are required for the firebase such as Firebase S
 To Deploy the functions to the Firebase: firebase deploy --only functions
 <img width="1677" alt="Deployed in Firebase" src="https://github.com/user-attachments/assets/f6c2017a-283a-4f4e-99f7-13c58cd5ae06">
 
+# Testing:
+Test the Firebase Functions endpoint with Postman to ensure successful message addition
+<img width="1677" alt="Success Request" src="https://github.com/user-attachments/assets/0302a3cb-8ef8-4ac9-bf38-b1f092894600">
+<img width="1677" alt="Bad Request" src="https://github.com/user-attachments/assets/c1858f14-4424-4a96-ade2-73a40a45ac48">
+
+
 
